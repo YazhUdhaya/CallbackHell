@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.container-fluid{
+    background-image: url("happy-independence-day-colorful-art-hd-wallpaper.jpg");
+    background-size: cover;
+    height: 660px;
+}
+h1{
+    color:white;
+}
+p{
+    color:white
+}
+#callbackhell{
+    display : grid;
+    color: white;
+    justify-content: center;
+    align-content: center;
+    font-size: 80px;
+    font-style: italic;
+}
